@@ -1,0 +1,12 @@
+a=6
+b=2
+print(6%2)
+a=8
+b-2
+print(8%2)
+a=5
+b=3
+print(5%3)
+a=7
+b=3
+print(7%3)
